@@ -1,12 +1,13 @@
-Theme Name: _tk
-Theme URI: http://themekraft.com/store/_tk-free-wordpress-starter-theme-based-on-twitter-bootstrap/
-Author: ThemeKraft
-Author URI: http://themekraft.com/
-Description: Hi, I am the ultra minimal starter theme _tk, ready for your next awesome WordPress project! I am the most seamless and minimalistic integration of Twitter Bootstrap Framework into the _s starter theme from Automattic, the guys behind WordPress. You can find me on GitHub. Fork me! I'm waiting for you ;)
-Version: 1.1.9
-License: GNU General Public License v3.0 /
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tags: gray, light, two-columns, right-sidebar, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images, flexible-header, sticky-post,  theme-options, threaded-comments, translation-ready
+INSTRUCTIONS FOR USING THIS THEME
+
+1.  Download the .zip file
+2.  Navigate to Wordpress in your browser.  Login through the /wp-admin screen.
+3.  Click on Appearances -> Themes on the left nav.
+4.  Click Add New at the top, and then Upload Theme
+5.  Click Choose file and locate the .zip file you just downloaded.
+6.  Click Install Now.
+
+CREDITS:
 
 *************************************************************
 
