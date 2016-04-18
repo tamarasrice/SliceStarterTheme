@@ -12,7 +12,7 @@
 
 get_header(); ?>
 
-<div id="content" class="main-content-inner col-xl-12">
+<div id="content" class="main-content-inner col-sm-12">
 
 HOMEPAGE TEMPLATE
 	<?php while ( have_posts() ) : the_post(); ?>
