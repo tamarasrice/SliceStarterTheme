@@ -98,7 +98,7 @@ function _tk_scripts() {
 	wp_enqueue_script( 'jquery', '<script
   src="https://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-  crossorigin="anonymous"></script>', [], false, false );
+  crossorigin="anonymous"></script>', false, false );
   
 	wp_enqueue_script( '_tk-bootstrapwp', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js', 'jquery', false, true );
 
