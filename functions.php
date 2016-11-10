@@ -90,7 +90,7 @@ add_action( 'widgets_init', '_tk_widgets_init' );
 function _tk_scripts() {
 
 	// load bootstrap css
-	wp_enqueue_style( '_tk-bootstrap', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css', [] );
+	wp_enqueue_style( '_tk-bootstrap', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' );
   
 	wp_dequeue_script( 'jquery' );
 	
